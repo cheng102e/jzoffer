@@ -1,0 +1,7 @@
+
+msquid:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Í»˜L8çÌ¾‚ˆ.
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(êùÂ»øÿÿÿÿ8â¶¾‚ˆ.
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(êùÂ»øÿÿÿÿ8çÌ¾‚ˆ.
+vsquid:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í»˜L8â¶¾‚ˆ.
