@@ -1,2 +1,4 @@
 
-Ysquid:S2094"BRemove this empty class, write its code or make it an "interface".(Ô¶Þ¯
+“squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(­ª£Ðüÿÿÿÿ8­²Ù°‰.
+9squid:S3626"Remove this redundant jump.(ûÁÝ…8Õö×°‰.
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ª£Ðüÿÿÿÿ8Õö×°‰.
