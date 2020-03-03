@@ -1,4 +1,7 @@
-import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Map.Entry;
 
 /**
  * @author Cheng102e
@@ -11,7 +14,23 @@ public class Q28 {
     if (array == null || array.length == 0) {
       return 0;
     }
-    Arrays.sort(array);
-    return array[(array.length - 1) / 2];
+    Map<Integer, Integer> map = new HashMap<>();
+    for (int i = 0; i < array.length; i++) {
+      if (map.containsKey(array[i])) {
+        int count = map.get(array[i]);
+        map.put(array[i], ++count);
+      } else {
+        map.put(array[i], 1);
+      }
+    }
+
+    Iterator iter = map.entrySet().iterator();
+    while (iter.hasNext()) {
+      Map.Entry<Integer, Integer> entry = (Entry<Integer, Integer>) iter.next();
+      if (entry.getValue() > array.length / 2) {
+        return entry.getKey();
+      }
+    }
+    return 0;
   }
 }
