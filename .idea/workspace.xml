@@ -3,8 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="c889a06f-9aa9-4861-9eff-3e8ccdee96e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q40.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +127,7 @@
       <workItem from="1583028585400" duration="13234000" />
       <workItem from="1583200249263" duration="67000" />
       <workItem from="1583233628770" duration="5174000" />
+      <workItem from="1583289059786" duration="18120000" />
     </task>
     <task id="LOCAL-00001" summary="2.24">
       <created>1582539726983</created>
@@ -164,25 +175,29 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="644" y="303" width="272" height="218" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1582539846987" />
-    <state width="724" height="210" key="GridCell.Tab.0.bottom" timestamp="1582799386027">
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1583317751487">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582799386027" />
-    <state width="724" height="210" key="GridCell.Tab.0.center" timestamp="1582799386027">
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583317751487" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1583317751487">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582799386027" />
-    <state width="724" height="210" key="GridCell.Tab.0.left" timestamp="1582799386027">
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583317751487" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1583317751487">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582799386027" />
-    <state width="724" height="210" key="GridCell.Tab.0.right" timestamp="1582799386027">
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583317751487" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1583317751487">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582799386027" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582969238912">
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583317751487" />
+    <state x="313" y="49" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583292988181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582969238912" />
+    <state x="313" y="49" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1583292988181" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583326990074">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583326990074" />
   </component>
 </project>

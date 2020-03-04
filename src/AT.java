@@ -1,30 +1,35 @@
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+
 /**
  * @author Cheng102e
  * @version 1.0
  * @date 2020/2/24 17:45
  */
 public class AT {
-  public static int JumpFloor(int target) {
-    if (target <= 0) {
-      return 0;
+  public static String PrintMinNumber(int[] numbers) {
+    StringBuffer str = new StringBuffer();
+    ArrayList<Integer> list = new ArrayList<>();
+    for (int i:numbers) {
+      list.add(i);
     }
-    if(target==1)
-    {
-      return 1;
+    Collections.sort(list, new Comparator<Integer>() {
+      @Override
+      public int compare(Integer o1, Integer o2) {
+        String s1 = o1 + "" + o2;
+        String s2 = o2 + "" + o1;
+        return s1.compareTo(s2);
+      }
+    });
+    for (int i:list){
+      str.append(i);
     }
-    if (target==2)
-    {
-      return 2;
-    }
-    int f[] = new int[target + 1];
-    f[1] = 1;
-    f[2] = 2;
-    for (int i = 3; i <= target; i++) {
-      f[i] = f[i - 1] + f[i - 2];
-    }
-    return f[target];
+    return str.toString();
   }
   public static void main(String[] args) {
-    System.out.println(JumpFloor(1));
+    int []num=new int[]{5,4,3,1,2};
+    String n=PrintMinNumber(num);
+    System.out.println(n);
   }
 }

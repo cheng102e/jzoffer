@@ -5,4 +5,19 @@
  */
 public class Q30 {
 
+  public int FindGreatestSumOfSubArray(int[] array) {
+
+    int sum = array[0];
+    int max = sum;
+    for (int i = 1; i < array.length; i++) {
+      if (sum < 0) {
+        sum = 0;
+      }
+      sum += array[i];
+      if (sum > max) {
+        max = sum;
+      }
+    }
+    return max;
+  }
 }
