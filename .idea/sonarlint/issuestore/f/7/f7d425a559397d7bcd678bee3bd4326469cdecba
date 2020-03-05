@@ -1,2 +1,4 @@
 
-^squid:S2094"BRemove this empty class, write its code or make it an "interface".(€Ÿ¿ñøÿÿÿÿ
+>squid:S1659" Declare "n3" on a separate line.(‘ÄØ8Ç»³ŸŠ.
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÜãÄ8†´ŸŠ.
+>squid:S1659" Declare "n5" on a separate line.(‘ÄØ8Ç»³ŸŠ.

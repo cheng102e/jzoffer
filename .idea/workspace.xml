@@ -2,24 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c889a06f-9aa9-4861-9eff-3e8ccdee96e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15228ccbb5761601a0629526252504343bb20302" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15228ccbb5761601a0629526252504343bb20302" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27f7d261a440507c987d0aee4fe031729026bd8d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27f7d261a440507c987d0aee4fe031729026bd8d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2fa2854e6033bf56f03882d90ff5b5b195cdf20e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2fa2854e6033bf56f03882d90ff5b5b195cdf20e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32a96fe912699e0e39d4ff2bc6e769c90db53e3a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32a96fe912699e0e39d4ff2bc6e769c90db53e3a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/537691bfc6a0c0d06635ae29b73e3565310ebc52" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/537691bfc6a0c0d06635ae29b73e3565310ebc52" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e6663565d695811d63a470ee8ea4e94e1e030c0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e6663565d695811d63a470ee8ea4e94e1e030c0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d07a8c1e1c670db7776d5c31e970a4692759ac3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d07a8c1e1c670db7776d5c31e970a4692759ac3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0c82688c9c21b2afb8a5d5249774aebeda7ba99" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0c82688c9c21b2afb8a5d5249774aebeda7ba99" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca0e0fade768342c7349d1e8e83c4e8b3bc9fa4d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca0e0fade768342c7349d1e8e83c4e8b3bc9fa4d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0a97caacdbbf83e31cb54a52cbd84f5ca9ffe3f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0a97caacdbbf83e31cb54a52cbd84f5ca9ffe3f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f53c4da88a09302adf4c052795dfa04a13be8597" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f53c4da88a09302adf4c052795dfa04a13be8597" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f7d425a559397d7bcd678bee3bd4326469cdecba" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f7d425a559397d7bcd678bee3bd4326469cdecba" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/AT$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/AT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/AT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q32$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q32$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q32.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q32.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q34.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q35.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q35.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q36.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q36.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q37.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q37.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q38.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q38.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q39.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q39.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q40.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q40.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q43.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q44.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q45.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q51.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q52.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q54.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q56.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -127,7 +172,9 @@
       <workItem from="1583028585400" duration="13234000" />
       <workItem from="1583200249263" duration="67000" />
       <workItem from="1583233628770" duration="5174000" />
-      <workItem from="1583289059786" duration="18120000" />
+      <workItem from="1583289059786" duration="18199000" />
+      <workItem from="1583371439173" duration="1598000" />
+      <workItem from="1583377331557" duration="25441000" />
     </task>
     <task id="LOCAL-00001" summary="2.24">
       <created>1582539726983</created>
@@ -175,29 +222,45 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="644" y="303" width="272" height="218" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1582539846987" />
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1583317751487">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1583417539181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583317751487" />
-    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1583317751487">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583417539181" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1583417539180">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583317751487" />
-    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1583317751487">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583417539180" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1583417539180">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583317751487" />
-    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1583317751487">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583417539180" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1583417539181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583317751487" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583417539181" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1583417539181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583417539181" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1583417539181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583417539181" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1583417539181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583417539181" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1583417539181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583417539181" />
     <state x="313" y="49" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583292988181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="313" y="49" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1583292988181" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583326990074">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583415683341">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583326990074" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583415683341" />
   </component>
 </project>

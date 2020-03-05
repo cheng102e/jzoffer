@@ -5,4 +5,8 @@
  */
 public class Q53 {
 
+  public boolean isNumeric(char[] str) {
+    String que=String.valueOf(str);
+    return  que.matches("[\\+-]?[0-9]*(\\.[0-9]*)?([eE][\\+-]?[0-9]+)?");
+  }
 }

@@ -1,2 +1,7 @@
 
-Xsquid:S2094"BRemove this empty class, write its code or make it an "interface".(Ò´†0
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ƒô›üÿÿÿÿ8‰§Š.
+Fsquid:S1604"(Make this anonymous inner class a lambda(…‰Á°8‰§Š.
+Wsquid:S1118
+":Add a private constructor to hide the implicit public one.(Ò´†08‰§Š.
+|squid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Şß×Øøÿÿÿÿ8‰§Š.
+}squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Ã¿Ÿ8‰§Š.

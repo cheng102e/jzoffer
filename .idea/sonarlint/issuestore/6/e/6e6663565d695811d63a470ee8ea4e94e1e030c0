@@ -1,2 +1,7 @@
 
-^squid:S2094"BRemove this empty class, write its code or make it an "interface".(œ‘Šƒÿÿÿÿÿ
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8§¾ê¬Š.
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş½Ö³úÿÿÿÿ8ØºÄ¬Š.
+[squid:S1197"8Move the array designator from the variable to the type.(ş½Ö³úÿÿÿÿ8ØºÄ¬Š.
+[squid:S1197"8Move the array designator from the variable to the type.(ş½Ö³úÿÿÿÿ8ØºÄ¬Š.
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ÑÈ­Š.
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ÑÈ­Š.

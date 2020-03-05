@@ -1,2 +1,4 @@
 
-Ysquid:S2094"BRemove this empty class, write its code or make it an "interface".(ÒõÈÎ
+rsquid:S00100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øéøÿÿÿÿ8›š¬Š.
+Isquid:S1481&"&Remove this unused "i" local variable.(ıÁÏ„ıÿÿÿÿ8µá¯¬Š.
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏØôÀ8ˆè¬Š.

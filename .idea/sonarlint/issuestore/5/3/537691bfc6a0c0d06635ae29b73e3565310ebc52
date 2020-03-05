@@ -1,3 +1,5 @@
 
-lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ëÍ_8óŞ™„ˆ.
-Vsquid:S1197"8Move the array designator from the variable to the type.(ÏÙŸ±8óŞ™„ˆ.
+Rsquid:S1066"/Merge this if statement with the enclosing one.(Õ†’åúÿÿÿÿ8Ô—²ÕŠ.
+usquid:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Õèòôşÿÿÿÿ8Ô—²ÕŠ.
+Vsquid:UselessParenthesesCheck"!Remove these useless parentheses.(¸—­Éûÿÿÿÿ8ØíóÕŠ.
