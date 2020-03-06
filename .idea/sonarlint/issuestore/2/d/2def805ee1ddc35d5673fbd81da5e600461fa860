@@ -1,2 +1,4 @@
 
-^squid:S2094"BRemove this empty class, write its code or make it an "interface".(ôùîáøÿÿÿÿ
+usquid:S00117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«§é¹øÿÿÿÿ8¦ô¼ÑŠ.
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ó…Èÿÿÿÿÿ8Ø¼¸ÑŠ.

@@ -6,8 +6,6 @@
 ;
 src/Q1.java,a\c\aca25ab7a855f59399c45489f4c3dfa579c6d789
 ;
-src/Q0.java,e\9\e92219b2e3d39f207505a4a786d7f60fe6efcb59
-;
 src/AT.java,5\3\537691bfc6a0c0d06635ae29b73e3565310ebc52
 ;
 src/Q2.java,e\1\e1d8db5a50b33a06117bec875b16d9e38a8b67b8

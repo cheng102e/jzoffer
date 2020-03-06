@@ -1,2 +1,5 @@
 
-^squid:S2094"BRemove this empty class, write its code or make it an "interface".(ŸÌúÿÿÿÿ
+Rsquid:S1066"/Merge this if statement with the enclosing one.(Õ†’åúÿÿÿÿ8ë¤ûÕŠ.
+]squid:S1118":Add a private constructor to hide the implicit public one.(ŸÌúÿÿÿÿ8ë¤ûÕŠ.
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Õèòôşÿÿÿÿ8ë¤ûÕŠ.
+Vsquid:UselessParenthesesCheck"!Remove these useless parentheses.(¸—­Éûÿÿÿÿ8ë¤ûÕŠ.

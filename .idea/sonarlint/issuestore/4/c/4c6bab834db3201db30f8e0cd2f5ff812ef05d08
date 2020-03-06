@@ -1,2 +1,2 @@
 
-^squid:S2094"BRemove this empty class, write its code or make it an "interface".(Éóäèÿÿÿÿÿ
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£«½ıùÿÿÿÿ8İÒëÎŠ.

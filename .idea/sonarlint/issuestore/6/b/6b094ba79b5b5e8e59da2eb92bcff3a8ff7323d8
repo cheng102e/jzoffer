@@ -1,2 +1,6 @@
 
-^squid:S2094"BRemove this empty class, write its code or make it an "interface".(é™Æâşÿÿÿÿ
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ğ£‚©ÿÿÿÿÿ8ğ¡´ñŠ.
+squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ËÈàÆ8Ã®ñŠ.
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÄÛê8ğ¡´ñŠ.
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ËÈàÆ8ßçÍñŠ.
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÈàÆ8Ã®ñŠ.

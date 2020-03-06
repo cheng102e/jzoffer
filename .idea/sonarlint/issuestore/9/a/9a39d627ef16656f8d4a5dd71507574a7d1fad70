@@ -1,2 +1,8 @@
 
-Ysquid:S2094"BRemove this empty class, write its code or make it an "interface".(¨úş½
+>squid:S2129"" Remove this "Double" constructor(€÷ŸÇ8İİĞôŠ.
+Csquid:S2129 " Remove this "Double" constructor(Ó•Êàøÿÿÿÿ8İİĞôŠ.
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¢Éú8õÅĞôŠ.
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ôáıÿÿÿÿ8õÅĞôŠ.
+\squid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8è“ÔôŠ.
+bsquid:CallToDeprecatedMethod ".Remove this use of "Double"; it is deprecated.(Ó•Êàøÿÿÿÿ8İİĞôŠ.
+]squid:CallToDeprecatedMethod"".Remove this use of "Double"; it is deprecated.(€÷ŸÇ8İİĞôŠ.
