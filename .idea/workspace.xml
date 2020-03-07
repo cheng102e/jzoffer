@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c889a06f-9aa9-4861-9eff-3e8ccdee96e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2cc96925ddcd7ce69c35ac6f3541b2b79f4dd33c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2cc96925ddcd7ce69c35ac6f3541b2b79f4dd33c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2def805ee1ddc35d5673fbd81da5e600461fa860" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2def805ee1ddc35d5673fbd81da5e600461fa860" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/4274444bf8cf33c338b328d4d583b0d3c71305dc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/4274444bf8cf33c338b328d4d583b0d3c71305dc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c6bab834db3201db30f8e0cd2f5ff812ef05d08" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c6bab834db3201db30f8e0cd2f5ff812ef05d08" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/722afee27e56be459d4771f060cb0a08baa73730" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/722afee27e56be459d4771f060cb0a08baa73730" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/889264543b227bcff048645a8f8275cca336469e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/889264543b227bcff048645a8f8275cca336469e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/898e36d90fa47acf3ababa41e32ff3c74b0b9658" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/898e36d90fa47acf3ababa41e32ff3c74b0b9658" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a66a6ef6019bd1b2dde19de7efa315c71a465eb2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a66a6ef6019bd1b2dde19de7efa315c71a465eb2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9e8f3e5ba8b49f08acb33454bff48e44c69064c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9e8f3e5ba8b49f08acb33454bff48e44c69064c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd994b27ef9e5911a2c75e97402087f697ba0a32" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd994b27ef9e5911a2c75e97402087f697ba0a32" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e92219b2e3d39f207505a4a786d7f60fe6efcb59" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f163cf6f71e188cd8f9a4e5351c65c7f9286e101" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f163cf6f71e188cd8f9a4e5351c65c7f9286e101" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/AT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/AT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q58.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q59.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q60.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q63.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q64.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q66.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q67.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +54,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -159,6 +133,7 @@
       <workItem from="1583371439173" duration="1598000" />
       <workItem from="1583377331557" duration="25441000" />
       <workItem from="1583457243064" duration="16702000" />
+      <workItem from="1583547879588" duration="829000" />
     </task>
     <task id="LOCAL-00001" summary="2.24">
       <created>1582539726983</created>
