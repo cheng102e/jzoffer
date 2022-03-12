@@ -2,10 +2,6 @@
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
 ;
-jzoffer.iml,c\6\c6b4c5a9740846a01a1197261b5c8ad321d670fa
-;
-src/Q1.java,a\c\aca25ab7a855f59399c45489f4c3dfa579c6d789
-;
 src/AT.java,5\3\537691bfc6a0c0d06635ae29b73e3565310ebc52
 ;
 src/Q2.java,e\1\e1d8db5a50b33a06117bec875b16d9e38a8b67b8
