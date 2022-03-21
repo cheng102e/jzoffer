@@ -1,8 +1,13 @@
 
->squid:S2129"" Remove this "Double" constructor(€÷ŸÇ8İİĞôŠ.
-Csquid:S2129 " Remove this "Double" constructor(Ó•Êàøÿÿÿÿ8İİĞôŠ.
-msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¢Éú8õÅĞôŠ.
-rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ôáıÿÿÿÿ8õÅĞôŠ.
-\squid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8è“ÔôŠ.
-bsquid:CallToDeprecatedMethod ".Remove this use of "Double"; it is deprecated.(Ó•Êàøÿÿÿÿ8İİĞôŠ.
-]squid:CallToDeprecatedMethod"".Remove this use of "Double"; it is deprecated.(€÷ŸÇ8İİĞôŠ.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ôáıÿÿÿÿ8Çà¾³ú/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¢Éú8Èà¾³ú/
+B
+java:S2129 " Remove this "Double" constructor(Ó•Êàøÿÿÿÿ8Èà¾³ú/
+j
+java:S5738 "HRemove this call to a deprecated method, it has been marked for removal.(Ó•Êàøÿÿÿÿ8Èà¾³ú/
+=
+java:S2129"" Remove this "Double" constructor(€÷ŸÇ8Èà¾³ú/
+e
+java:S5738""HRemove this call to a deprecated method, it has been marked for removal.(€÷ŸÇ8Èà¾³ú/
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8Èà¾³ú/

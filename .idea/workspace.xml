@@ -1,12 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c889a06f-9aa9-4861-9eff-3e8ccdee96e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/aca25ab7a855f59399c45489f4c3dfa579c6d789" beforeDir="false" />
+    <list default="true" id="c889a06f-9aa9-4861-9eff-3e8ccdee96e2" name="Default Changelist" comment="2022.03.12 19.21">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a39d627ef16656f8d4a5dd71507574a7d1fad70" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a39d627ef16656f8d4a5dd71507574a7d1fad70" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jzoffer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jzoffer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/AT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/AT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/META-INF/jzoffer.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q14$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q14$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q15$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q15$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q16$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q16$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q17$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q17$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q18$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q18$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q22$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q22$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q24$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q24$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q25$RandomListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q25$RandomListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q26$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q26$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q28.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q3$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q3$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q30.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q31.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q31.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q32$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q32$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q32.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q32.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q34.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q35.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q35.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q36$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q36$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q36.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q36.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q37.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q37.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q38$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q38$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q38.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q38.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q39$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q39$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q39.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q39.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q4$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q4$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q40.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q40.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q41.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q41.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q42.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q42.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q43.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q43.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q44.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q44.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q45.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q45.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q46.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q46.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q47.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q47.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q48.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q48.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q49.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q49.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q50.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q50.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q51.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q51.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q52.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q52.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q53.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q53.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q54.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q54.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q55$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q55$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q55.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q55.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q56$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q56$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q56.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q56.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q57$TreeLinkNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q57$TreeLinkNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q57.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q57.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q58$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q58$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q58.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q58.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q59$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q59$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q59.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q59.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q60$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q60$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q60.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q60.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q61$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q61$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q61.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q61.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q62$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q62$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q62.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q62.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q63.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q63.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q64.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q64.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q65.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q65.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q66.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q66.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q67.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q67.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jzoffer/Q9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzoffer/Q9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ10I.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ10II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ14I.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ29.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ52.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JZ9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q27.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q29.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q33.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q39.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q40.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q41.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q42.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q43.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q44.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q45.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q46.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q48.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q49.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q50.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q51.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q52.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q53.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q54.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q55.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q56.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q57.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q58.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q59.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q60.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q61.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q62.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q63.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q64.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q65.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q66.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q67.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q9.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +248,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -75,11 +257,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\jzoffer\src" />
+      <recent name="D:\Code\jzoffer" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
@@ -88,33 +275,52 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.JZ12Test.exist">
-    <configuration name="AT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AT" />
-      <module name="jzoffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q0" />
-      <module name="jzoffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q3" />
-      <module name="jzoffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JZ12Test.exist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.JZ54Test.kthLargest">
+    <configuration name="JZ17Test.printNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jzoffer" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="JZ12Test" />
-      <option name="METHOD_NAME" value="exist" />
+      <option name="MAIN_CLASS_NAME" value="JZ17Test" />
+      <option name="METHOD_NAME" value="printNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JZ20Test.isNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jzoffer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JZ20Test" />
+      <option name="METHOD_NAME" value="isNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JZ46Test.translateNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jzoffer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JZ46Test" />
+      <option name="METHOD_NAME" value="translateNum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JZ54Test.kthLargest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jzoffer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JZ54Test" />
+      <option name="METHOD_NAME" value="kthLargest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JZ58IITest.reverseLeftWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jzoffer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JZ58IITest" />
+      <option name="METHOD_NAME" value="reverseLeftWords" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,10 +328,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JZ12Test.exist" />
-        <item itemvalue="Application.AT" />
-        <item itemvalue="Application.Q3" />
-        <item itemvalue="Application.Q0" />
+        <item itemvalue="JUnit.JZ54Test.kthLargest" />
+        <item itemvalue="JUnit.JZ17Test.printNumbers" />
+        <item itemvalue="JUnit.JZ46Test.translateNum" />
+        <item itemvalue="JUnit.JZ58IITest.reverseLeftWords" />
+        <item itemvalue="JUnit.JZ20Test.isNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +373,16 @@
       <workItem from="1583457243064" duration="16702000" />
       <workItem from="1583547879588" duration="829000" />
       <workItem from="1647005994018" duration="5798000" />
-      <workItem from="1647044880667" duration="19181000" />
+      <workItem from="1647044880667" duration="19937000" />
+      <workItem from="1647166642313" duration="403000" />
+      <workItem from="1647353255885" duration="59000" />
+      <workItem from="1647391956834" duration="10185000" />
+      <workItem from="1647415401626" duration="2042000" />
+      <workItem from="1647480912646" duration="1193000" />
+      <workItem from="1647566128726" duration="6871000" />
+      <workItem from="1647655878692" duration="12863000" />
+      <workItem from="1647740108523" duration="20497000" />
+      <workItem from="1647827017182" duration="2210000" />
     </task>
     <task id="LOCAL-00001" summary="2.24">
       <created>1582539726983</created>
@@ -182,16 +398,36 @@
       <option name="project" value="LOCAL" />
       <updated>1582710224581</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2022.03.12 19.21">
+      <created>1647084097933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647084097933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2.24" />
     <MESSAGE value="2.26" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.26" />
+    <MESSAGE value="2022.03.12 19.21" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.03.12 19.21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -200,6 +436,57 @@
           <url>file://$PROJECT_DIR$/src/JZ12.java</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JZ53I.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JZ53I.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JZ53I.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JZ20.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JZ46.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JZ46.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JZ17.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/JZ17.java</url>
+          <line>20</line>
+          <properties class="JZ17" method="build">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/JZ54.java</url>
+          <line>27</line>
+          <properties class="JZ54" method="dfs">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
